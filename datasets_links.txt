@@ -1,0 +1,29 @@
+
+
+
+
+
+
+# Network analysis related datasets
+
+[edit!]
+
+https://github.com/gephi/gephi/wiki/Datasets
+deim.urv.cat/~alexandre.arenas/data/welcome.htm 
+http://vlado.fmf.uni-lj.si/pub/networks/data/ 
+http://vlado.fmf.uni-lj.si/pub/networks/data/mix/mixed.htm
+http://vlado.fmf.uni-lj.si/pub/networks/data/ucinet/ucidata.htm
+http://vlado.fmf.uni-lj.si/pub/networks/data/soc/Samo/Stranke94.htm
+cdg.columbia.edu/cdg/datasets 
+www3.nd.edu/~networks/Publication Categories/publications.htm#anchor-Social0002 
+https://networkdata.ics.uci.edu/getting_started.php
+https://networkdata.ics.uci.edu/resources.php
+web.stanford.edu/group/sonia/dataSources/index.html 
+http://www.trustlet.org/epinions.html
+https://del.icio.us/jhofman/networks+data 
+http://www-personal.umich.edu/~mejn/netdata/ 
+http://www-personal.umich.edu/~mejn/courses/2015/cscs535/index.html
+http://math.nist.gov/~RPozo/complex_datasets.html
+
+Barbassi:
+http://www3.nd.edu/~networks/resources.htm
