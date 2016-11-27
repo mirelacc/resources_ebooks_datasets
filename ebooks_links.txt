@@ -1,5 +1,5 @@
 
-# Ebooks/pdf's related to AI / programming languages / datascience / security / and in general IT.
+## - O'Reilly ebooks/pdf's related to AI / programming languages / datascience / security / and in general IT.
 
 http://www.oreilly.com/programming/free/
 http://www.oreilly.com/data/free/archive.html?imm_mid=0e789b
@@ -16,3 +16,10 @@ http://www.confluent.io/wp-content/uploads/2016/08/Making_Sense_of_Stream_Proces
 Streaming Architecture: New Designs Using Apache Kafka and MapR Streams - Ted Dunning & Ellen Friedman
 online: https://www.mapr.com/ebooks/streaming-architecture/chapter-01-why-event-streaming.html
 pdf: http://info.mapr.com/streaming-architecture-pdf-download
+
+
+## - R (&datasciene)
+
+http://ucanalytics.com/blogs/learn-r-12-books-and-online-resources/
+
+-> https://github.com/mirelacc/resources_ebooks_datasets/edit/master/ebooks_links.txt
