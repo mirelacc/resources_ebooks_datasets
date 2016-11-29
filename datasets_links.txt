@@ -1,20 +1,21 @@
  
+Networks:
 
-[edit!]
-
+https://icon.colorado.edu/#!/  
+https://snap.stanford.edu/data/
+https://del.icio.us/jhofman/networks+data 
+http://webscope.sandbox.yahoo.com/catalog.php?datatype=g
 
 Census/Survey:
+
 https://www.census.gov/data.html 
 https://www.census.gov/data/developers/data-sets/acs-survey-5-year-data.html
 (AWS requires signing up)
 https://aws.amazon.com/datasets/?tag=datasets%23keywords%23economics 
 https://aws.amazon.com/datasets/japan-census-data/   
 
-Networks:
-https://icon.colorado.edu/#!/  
-https://snap.stanford.edu/data/  
-
 All kinds (needs categorizing):
+
 https://www.stata.com/links/examples-and-datasets/ 
 https://www.cdc.gov/nchs/data_access/ftp_data.htm 
 https://www.apa.org/research/responsible/data-links.aspx 
@@ -45,8 +46,7 @@ https://osf.io/p9ixw/
 https://www.kdnuggets.com/2013/12/top-datasets-on-reddit.html
 
 
-Social media:
-https://www.coosto.com/nl/
+
 
 NL:
 https://opendatanederland.org/nl/dataset/openkvk
@@ -59,13 +59,11 @@ EU:
 https://www.talkofeurope.eu
 
 ''The Programme for International Student Assessment (PISA) is a worldwide study by the Organisation for Economic 
-Co-operation and Development (OECD) in member and non-member nations of 15-year-old school pupils' scholastic performance 
-on mathematics, science, and reading. ''
+Co-operation and Development (OECD) in member and non-member nations of 15-year-old school pupils' scholastic performance on mathematics, science, and reading. ''
 
 https://github.com/pbiecek/PISA2012lite
 
-''WordNet is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive
-synonyms (synsets), each expressing a distinct concept. ''
+''WordNet is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept. ''
 
 https://wordnet.princeton.edu/wordnet/download/
 https://wordnet.princeton.edu/wordnet/
@@ -82,10 +80,11 @@ https://networkdata.ics.uci.edu/getting_started.php
 https://networkdata.ics.uci.edu/resources.php
 web.stanford.edu/group/sonia/dataSources/index.html 
 http://www.trustlet.org/epinions.html
-https://del.icio.us/jhofman/networks+data 
 http://www-personal.umich.edu/~mejn/netdata/ 
 http://www-personal.umich.edu/~mejn/courses/2015/cscs535/index.html
 http://math.nist.gov/~RPozo/complex_datasets.html
 
 Barbassi:
 http://www3.nd.edu/~networks/resources.htm
+
+
