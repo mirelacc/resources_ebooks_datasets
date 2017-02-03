@@ -4,60 +4,98 @@ http://blog.kaggle.com/2017/01/31/scraping-for-craft-beers-a-dataset-creation-tu
 Networks:
 
 https://icon.colorado.edu/#!/  
+
 https://snap.stanford.edu/data/
+
 https://del.icio.us/jhofman/networks+data 
+
 http://webscope.sandbox.yahoo.com/catalog.php?datatype=g
 
 Census/Survey:
 
 https://www.census.gov/data.html 
+
 https://www.census.gov/data/developers/data-sets/acs-survey-5-year-data.html
 (AWS requires signing up)
+
 https://aws.amazon.com/datasets/?tag=datasets%23keywords%23economics 
+
 https://aws.amazon.com/datasets/japan-census-data/   
 
 All kinds (needs categorizing):
 
 https://www.stata.com/links/examples-and-datasets/ 
+
 https://www.cdc.gov/nchs/data_access/ftp_data.htm 
+
 https://www.apa.org/research/responsible/data-links.aspx 
+
 https://www.pewresearch.org/data/download-datasets/ 
+
 https://dhsprogram.com/data/available-datasets.cfm 
+
 https://www.pewinternet.org/datasets/ 
+
 https://github.com/fivethirtyeight/data 
+
 https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=soc&numAtt=&numIns=&type=&sort=nameUp&view=table
+
 https://github.com/okulbilisim/awesome-datascience/blob/master/README.md#data-sets
+
 http://www.rdatamining.com/data 
+
 http://www.rdatamining.com/resources/data
+
 http://www.rdatamining.com/books/dmar/code
+
 http://www.rdatamining.com/books/rdm/code
+
 http://www.r-bloggers.com/?s=datasets
+
 http://www.r-bloggers.com/datasets-to-practice-your-data-mining/
+
 https://www.inside-r.org/howto/finding-data-internet
+
 https://www.ciser.cornell.edu/ASPs/datasource.asp 
+
 https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html
+
 https://www.r-bloggers.com/big-data-sets-you-can-use-with-r/
+
 https://github.com/rstudio/RStartHere/ (See "data" list)
+
 https://github.com/caesar0301/awesome-public-datasets
+
 https://www.datasciencecentral.com/page/search?q=data+sets
+
 https://www.kaggle.com/datasets
+
 https://blog.kaggle.com/2016/01/19/introducing-kaggle-datasets/
+
 https://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75
+
 https://www.inf.ed.ac.uk/teaching/courses/dme/2012/datasets.html
+
 https://osf.io/p9ixw/
+
 https://www.kdnuggets.com/2013/12/top-datasets-on-reddit.html
 
 
 
-
 NL:
+
 https://opendatanederland.org/nl/dataset/openkvk
+
 https://opendatanederland.org/nl/checklist 
+
 https://opendatanederland.org/nl/zoeken?Keyword=&Organization=&License=&Format=0&Category=gezondheid&Region= 
+
 https://openov.nl/
+
 https://www.healthdata.org/netherlands
 
 EU:
+
 https://www.talkofeurope.eu
 
 ''The Programme for International Student Assessment (PISA) is a worldwide study by the Organisation for Economic 
@@ -68,25 +106,43 @@ https://github.com/pbiecek/PISA2012lite
 ''WordNet is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept. ''
 
 https://wordnet.princeton.edu/wordnet/download/
+
 https://wordnet.princeton.edu/wordnet/
 
 https://github.com/gephi/gephi/wiki/Datasets
+
 deim.urv.cat/~alexandre.arenas/data/welcome.htm 
+
 http://vlado.fmf.uni-lj.si/pub/networks/data/ 
+
 http://vlado.fmf.uni-lj.si/pub/networks/data/mix/mixed.htm
+
 http://vlado.fmf.uni-lj.si/pub/networks/data/ucinet/ucidata.htm
+
 http://vlado.fmf.uni-lj.si/pub/networks/data/soc/Samo/Stranke94.htm
+
 cdg.columbia.edu/cdg/datasets 
+
 www3.nd.edu/~networks/Publication Categories/publications.htm#anchor-Social0002 
+
 https://networkdata.ics.uci.edu/getting_started.php
+
 https://networkdata.ics.uci.edu/resources.php
+
 web.stanford.edu/group/sonia/dataSources/index.html 
+
 http://www.trustlet.org/epinions.html
+
 http://www-personal.umich.edu/~mejn/netdata/ 
+
 http://www-personal.umich.edu/~mejn/courses/2015/cscs535/index.html
+
 http://math.nist.gov/~RPozo/complex_datasets.html
 
+
+
 Barbassi:
+
 http://www3.nd.edu/~networks/resources.htm
 
 
