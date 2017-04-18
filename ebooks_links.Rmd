@@ -8,12 +8,14 @@ O'Reilly ebooks/pdf's related to AI / programming languages / datascience / secu
 - http://www.oreilly.com/webops-perf/free/
 - http://www.oreilly.com/security/free/
 - http://www.oreilly.com/programming/free/microservices-antipatterns-and-pitfalls.csp?cmp=tw-prog-na-article-lgen_tw_report_as
+- https://get.threatstack.com/oreilly-automating-security-in-the-cloud-ebook
 
 Others:
 
 - http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?overrideMobileRedirect=1
 - http://downloads.lightbend.com/website/reactive-microservices-architecture/Reactive_Microservices_Architecture.pdf
 - http://www.confluent.io/wp-content/uploads/2016/08/Making_Sense_of_Stream_Processing_Confluent_1.pdf
+ 
 
 Streaming:
 
@@ -22,7 +24,9 @@ Streaming:
 - + pdf: http://info.mapr.com/streaming-architecture-pdf-download
 
 
-R (&datasciene)
+R & datasciene
 
 - http://ucanalytics.com/blogs/learn-r-12-books-and-online-resources/
 - https://github.com/mirelacc/resources_ebooks_datasets/edit/master/ebooks_links.txt
+- https://github.com/jakevdp/PythonDataScienceHandbook
+- http://r4ds.had.co.nz/
