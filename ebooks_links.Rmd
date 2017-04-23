@@ -9,6 +9,11 @@ O'Reilly ebooks/pdf's related to AI / programming languages / datascience / secu
 - http://www.oreilly.com/security/free/
 - http://www.oreilly.com/programming/free/microservices-antipatterns-and-pitfalls.csp?cmp=tw-prog-na-article-lgen_tw_report_as
 - https://get.threatstack.com/oreilly-automating-security-in-the-cloud-ebook
+- https://conferences.oreilly.com/artificial-intelligence/ai-ny/public/content/resources
+- http://www.oreilly.com/data/free/files/the-new-artificial-intelligence-market.pdf
+- http://www.oreilly.com/data/free/files/artificial-intelligence-now.pdf
+- http://www.oreilly.com/data/free/files/practical-artificial-intelligence-in-the-cloud.pdf
+
 
 Others:
 
